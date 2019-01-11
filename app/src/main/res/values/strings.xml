@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MultiSensor</string>
+    <string name="sensor_capabilities">Sensor Capabilities</string>
+    <string name="activate">Activate</string>
+    <string name="title">Title</string>
+    <string name="index">Index</string>
+    <string name="sensor_output">Sensor Output</string>
+    <string name="sensor_name">Sensor Name</string>
+    <string name="name">Name</string>
+    <string name="vendor">Vendor</string>
+    <string name="power">Power</string>
+    <string name="resolution">Resolution</string>
+    <string name="range">Range</string>
+    <string name="type_name">Type Name</string>
+
+</resources>
